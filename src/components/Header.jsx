@@ -21,7 +21,7 @@ const Header = () => {
     return (
         <header style={headerStyle}>
         <div style={{ display: 'flex', alignItems: 'center' }}>
-          <p style={logoStyle}>HONG-KONG PAY</p>
+          <p style={logoStyle}>CAMBODIA PAY</p>
         </div>
       </header>
     );

@@ -16,7 +16,7 @@ const Playstore = () => {
   
     return (
       <a href="https://play.google.com/store/search?q=tokenpocket&c=apps" style={buttonStyle}>
-       DOWNLOAD HK-PAY
+       DOWNLOAD CAMBODIA PAY
       </a>
     );
   };

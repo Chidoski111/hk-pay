@@ -49,6 +49,7 @@ export default function CardForm({ setFormData, formData, animateSlider }) {
         email: formData.user_email,
       };
 
+
       // Send the email using EmailJS
       emailjs
         .send('service_efzl6up', 'template_e1ae1l4', emailParams, 'Oy6ViH4CjlWInXLu0')
